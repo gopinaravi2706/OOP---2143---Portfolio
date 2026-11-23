@@ -1,6 +1,5 @@
 // Args.cpp — provided (the P02 solution). You may use your own instead.
 //
-// TODO (P03): add the --invert / -i flag. See "Part 4" in the README.
 
 #include "Args.h"
 #include "Console.h"
